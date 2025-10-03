@@ -59,8 +59,11 @@
     height: 150px;
     border: 1px solid black;
 }
-.cont-blu{}
-
+.cont-green{
+    width: 70%;
+    height: 400px;
+    border: 1px solid black;
+}
 .bg-purple{
     background-color: purple;
 }
