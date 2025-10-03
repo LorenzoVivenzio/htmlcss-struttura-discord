@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: aqua;
+    padding: 10px;
+}
+.flex{
+    display: flex;
+}
+.nav{
+    width: 60%;
+    border: 1px solid black;
+    margin: 0 auto;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.cont{
+    border: 1px solid black;
+}
+.logo{
+    width: 25%;
+}
+.link{
+    width: 50%;
+}
+.login{
+    width: 25%;
+}
+
+.main{}
+.bg-orange{
+    background-color: orange;
+}
+.bg-purple{
+    background-color: purple;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-pink{
+    background-color: pink;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-salmon{
+    background-color: darksalmon;
+}
+.bg-aqua{
+    background-color: aqua;
+}
+.bg-marine{
+    background-color: aquamarine;
+}
+.bg-grey{
+    background-color: grey;
+}
+.bg-darkblue{
+    background-color: darkblue;
+}
