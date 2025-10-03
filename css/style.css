@@ -18,6 +18,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.pdg{
+    padding: 10px;
+}
 .cont{
     border: 1px solid black;
 }
@@ -30,10 +33,17 @@
 .login{
     width: 25%;
 }
-
-.main{}
 .bg-orange{
     background-color: orange;
+}
+.mg-auto{
+    margin: 0 auto;
+}
+
+.cont-purple{
+    width: 40%;
+    height: 150px;
+    border: 1px solid black;
 }
 .bg-purple{
     background-color: purple;
