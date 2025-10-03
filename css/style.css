@@ -18,6 +18,20 @@
     justify-content: space-between;
     align-items: center;
 }
+.doppio-contenitore{
+    width: 60%;
+    height: 200px;
+    border: 1px solid black;
+}
+.direction-inverse{
+    flex-direction: row-reverse;
+}
+.cont-blue{
+    width: 60%;
+}
+.cont-pink{
+    width: 40%;
+}
 .pdg{
     padding: 10px;
 }
@@ -45,6 +59,8 @@
     height: 150px;
     border: 1px solid black;
 }
+.cont-blu{}
+
 .bg-purple{
     background-color: purple;
 }
